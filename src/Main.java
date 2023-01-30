@@ -52,6 +52,7 @@ public class Main {
          * which is true when it is a holiday and false on normal days. Write Java code that prints "Wake up at 7:00"
          * on weekdays that are not holidays, and prints "Sleep in!" on weekends and holidays. For the variable
          * dayOfTheWeek, use this key:
+         *
          * 1 = Monday
          * 2 = Tuesday
          * 3 = Wednesday
@@ -76,6 +77,7 @@ public class Main {
          * Question 4
          *
          * Assume the int variable dayOfWeek has some value, and that it follows this rule:
+         *
          * 1 = Monday
          * 2 = Tuesday
          * 3 = Wednesday
